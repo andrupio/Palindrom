@@ -1,1 +1,1 @@
-The function checks if a given word is a palindrome. A comparison of the text string with its inverse was applied using negative indexing.
+Palindrome.py checks to see if a word is a palindrome. Comparing the text string with its inverse has been applied using negative indexing.
