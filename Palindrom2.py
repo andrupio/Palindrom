@@ -1,5 +1,5 @@
 def palindrom(w):
-    w = ' '.join(c for c in w if c.isalnum())
+    w = ''.join(c for c in w if c.isalnum())
     w = w.lower()
     print(w)
     z = len(w)
